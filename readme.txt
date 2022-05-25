@@ -13,3 +13,5 @@ Note: Only add suitable video links with less duration.
 
 Step 6: run the final code snippet "Perform Action Recognition on the Test Video" which will give you an output video
         predicting the action performed in the video.
+        
+project walkthrough video link - https://drive.google.com/file/d/1PCr4eWF4CbNPW1Sg5h5CnyDmP-Q7Bwfv/view?usp=sharing
